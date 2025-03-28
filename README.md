@@ -1,4 +1,4 @@
-# ANN/Reinforcement learning project: Mountain Car environment  
+# ANN/Reinforcement learning project: DQN and Dyna Agents in Mountain Car environment  
 
 Project was done as the part of the coursework for the CS-456: ANN/Reinforcement learning.  
 
